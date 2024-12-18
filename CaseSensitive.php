@@ -10,3 +10,4 @@
 
  echo $nome;
  echo $NOME;
+?>
